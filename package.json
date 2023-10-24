@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "cypress": "^13.3.2"
+  },
+  "dependencies": {
+    "jest": "^29.7.0",
+    "jest-playwright-preset": "^3.0.1",
+    "playwright": "^1.39.0"
+  }
+}
